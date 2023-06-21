@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1687227063 source:c:\jemr\examenprueba\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687227063 c:\jemr\examenprueba\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687227063 c:\jemr\examenprueba\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687296582 source:c:\jemr\examenprueba\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687232408 source:c:\jemr\examenprueba\main.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687227063 source:c:\jemr\ramasej\examenprueba\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687227063 c:\jemr\ramasej\examenprueba\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687227063 c:\jemr\ramasej\examenprueba\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1687296582 source:c:\jemr\ramasej\examenprueba\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
